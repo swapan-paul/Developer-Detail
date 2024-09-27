@@ -1,0 +1,304 @@
+{
+    "Header.Item1": "मेरे बारे में",
+    "Header.Item2": "अनुभव",
+    "Header.Item3": "प्रोजेक्ट्स",
+    "Header.Item4": "संपर्क करें",
+    "Header.cvBtn": "रिज़्यूमे",
+    "Header.cvName": "CV_swapan.pdf",
+    "Banner.Pretitle": "नमस्ते! मेरा नाम है",
+    "Banner.Description": "मैंने <span class='underline'>8 वर्षों का अनुभव</span> सिस्टम, इंटरफेस, बॉट्स और तकनीकी समाधानों का विकास करने में बिताया है ताकि वेब को एक बेहतर स्थान बनाया जा सके। मैं <span class='underline'>Angular</span> और <span class='underline'>Laravel</span> में साफ, पुन: उपयोग योग्य और मापनीय कोड लिखने और पुनः लिखने पर ध्यान केंद्रित करता हूँ, साथ ही विकास मानकों और अच्छे अभ्यासों को लागू करता हूँ।",
+    "Banner.ActionBtn": "संपर्क करें",
+    "AboutMe.Title": "मेरे बारे में",
+    "AboutMe.Paragraphs": [
+        "<span class='underline'>3.5 वर्षों के अनुभव</span> में मैंने कई भूमिकाएं निभाई हैं: <span class='underline'>सिस्टम विश्लेषक</span>, <span class='underline'>बैकएंड डेवलपर</span>, <span class='underline'>फ्रंटएंड डेवलपर</span>, और <span class='underline'>तकनीकी लीडर</span>। मुझे नई चीज़ें बनाने में योगदान देने में मज़ा आता है जो समस्याओं का समाधान करती हैं।",
+        "मेरी क्षमताएं सिस्टम में सुधार लागू करने, साइटों को अनुकूलित करने, पैटर्न को मानकीकृत करने और उन परियोजनाओं में मूल्य जोड़ने वाले विचारों को सुझाने और निष्पादित करने को भी शामिल करती हैं।",
+        "मैं अपने व्यक्तिगत उपयोग के लिए भी चीज़ों का कार्यक्रम करता हूँ, चाहे वह शौक के रूप में हो या उपयोगिता के लिए।",
+        "कुछ तकनीकें जिनमें मैंने प्रशिक्षण लिया और काम किया है (लेकिन इन्हीं तक सीमित नहीं):"
+    ],
+    "Experience.Title": "अनुभव",
+    "Experience.Jobs": [
+        {
+            "Tab": "ग्लोबल",
+            "Title": "फुलस्टैक डेवलपर",
+            "Date": "मई 2023",
+            "Description": [
+                "तकनीकी निर्णय नेतृत्वकर्ता",
+                "कंपनी के लिए तकनीकी प्रतिभा की भर्ती",
+                "प्रौद्योगिकी विभाग की टीम लीडर",
+                "विक्रय पाठ्यक्रमों के लिए आंतरिक प्रक्रिया प्रबंधन प्लेटफ़ॉर्म का निर्माण और रखरखाव",
+                "WordPress प्लेटफ़ॉर्म के लिए कस्टम कार्य और प्लगइन्स का प्रोग्रामिंग",
+                "निरंतर एकीकरण और दैनिक बैकअप का कार्यान्वयन।",
+                "रिपोर्ट्स के साथ योजनाबद्ध बैठकें।"
+            ]
+        },
+        {
+            "Tab": "प्रोजेक्स",
+            "Title": "फुलस्टैक डेवलपर",
+            "Date": "दिसंबर 2019 - वर्तमान",
+            "Description": [
+                "WordPress में एक मॉनिटरिंग प्लेटफ़ॉर्म का निर्माण और रखरखाव।",
+                "मॉनिटरिंग सुविधाओं को जोड़ने के लिए टेम्प्लेट और प्लगइन्स में फंक्शनल प्रोग्रामिंग।",
+                "निरंतर एकीकरण और दैनिक बैकअप का कार्यान्वयन।",
+                "Angular, Angular Material, Laravel, MySQL, RxJS, Sass में एक दूसरा मॉनिटरिंग प्लेटफ़ॉर्म का निर्माण और रखरखाव, जिसमें ग्राफिक्स (कस्टमाइज़ेबल), अलार्म सिस्टम, उपयोगकर्ता प्रबंधन और सामान्य मापदंडों की कॉन्फ़िगरेशन शामिल है।",
+                "रिपोर्ट्स के साथ योजनाबद्ध बैठकें।"
+            ]
+        },
+        {
+            "Tab": "फ्रीलांसर",
+            "Title": "स्वतंत्र",
+            "Date": "मई 2016 - वर्तमान",
+            "Description": [
+                "निरंतर सुधारों का कार्यान्वयन, फ्रंटेंड और बैकएंड पर काम करना।",
+                "Angular, Laravel, ExpressJS, WordPress में प्लेटफ़ॉर्म बनाना, जो फंक्शनल, रिएक्टिव और ऑब्जेक्ट-ओरिएंटेड प्रोग्रामिंग पैराडाइम्स में प्रोग्राम किए गए हैं।",
+                "डेटा संरचनाओं के साथ प्रक्रियाओं का ऑटोमेशन।",
+                "SASS, Bootstrap, Materialize, Bulma आदि के साथ डिज़ाइन लेआउट।"
+            ]
+        },
+        {
+            "Tab": "मोबियस",
+            "Title": "फुलस्टैक डेवलपर",
+            "Date": "जुलाई 2017 - अक्टूबर 2018",
+            "Description": [
+                "Angular, Laravel, और MySQL में एक पर्यटन डेटा प्रबंधन प्लेटफ़ॉर्म के विकास में 4 लोगों की टीम का नेतृत्व।",
+                "Azure में CI / CD का कार्यान्वयन। एप्लिकेशन लोड समय का रीफैक्टरिंग और अनुकूलन।",
+                "RxJS के साथ API अनुरोधों का कोडिंग।",
+                "जटिल रिएक्टिव फॉर्म के साथ मॉड्यूल का निर्माण।",
+                "लक्ष्यों और योजनाओं के बारे में साप्ताहिक रिपोर्ट लिखना।"
+            ]
+        },
+        {
+            "Tab": "टेकलैटम",
+            "Title": "फ्रंटेंड डेवलपर",
+            "Date": "फरवरी 2016 - मई 2017",
+            "Description": [
+                "ACF के साथ WordPress टेम्प्लेट्स का निर्माण, जावास्क्रिप्ट / jQuery में फंक्शनल प्रोग्रामिंग, SASS में स्टाइल।",
+                "डिज़ाइन सुधारों और टेम्प्लेट लोडिंग समय का एकीकरण।",
+                "डिज़ाइन टीम के साथ प्रभावी संवाद, Avocode / Figma के साथ काम।"
+            ]
+        },
+        {
+            "Tab": "CANTV",
+            "Title": "सिस्टम विश्लेषक",
+            "Date": "नवंबर 2015 - दिसंबर 2016",
+            "Description": [
+                "Angular और ExpressJS में बनाए गए एक मौजूदा कर्मचारी प्रबंधन प्लेटफ़ॉर्म के लिए नई कार्यक्षमताओं की प्रोग्रामिंग।",
+                "पुराने कोड का रीफैक्टरिंग। हर अपडेट में हर निर्भरता की संगतता सुनिश्चित करना, साथ ही नियमित Angular अपडेट।"
+            ]
+        },
+        {
+            "Tab": "IEP",
+            "Title": "अंग्रेज़ी शिक्षक",
+            "Date": "जनवरी 2015 - जुलाई 2015",
+            "Description": [
+                "200 से अधिक छात्रों के नामांकन के लिए बुनियादी स्तर पर अंग्रेज़ी पढ़ाना।"
+            ]
+        }
+    ],
+
+    "FeatureProjects.Title": "मेरे प्रोजेक्ट्स",
+    "FeatureProjects.Label": "विशेष प्रोजेक्ट",
+    "FeatureProjects.Projects": [
+        {
+            "Title": "गिसेल",
+            "Description": "यह एक वेब एप्लिकेशन है जो कंपनी के आंतरिक प्रबंधन के लिए है और इसमें बिक्री, बिलिंग और विस्तृत और जटिल ट्रैकिंग विभाग शामिल हैं, जिसे <span class='underline'>Angular</span> और <span class='underline'>Laravel</span> के साथ बनाया गया है। यह <span class='underline'>Websockets</span>, <span class='underline'>Schedules</span>, <span class='underline'>Laravel Jobs</span>, WordPress, Zadarma, LiveConnect आदि के साथ इंटीग्रेटेड है।",
+            "imgs": [
+                "assets/images/gisselle/Captura de pantalla 2024-05-19 1009582.png",
+                "assets/images/gisselle/Captura de pantalla 2024-05-19 115514.png",
+                "assets/images/gisselle/Captura de pantalla 2024-05-19 115702.png",
+                "assets/images/gisselle/Captura de pantalla 2024-05-19 115829.png",
+                "assets/images/gisselle/Captura de pantalla 2024-05-19 1009582.png"
+            ],
+            "Technologies": [
+                "Laravel",
+                "Angular",
+                "SASS",
+                "Angular Material",
+                "RxJS"
+            ]
+        },
+        {
+            "Title": "एमेल्टेसीआईओटी",
+            "Description": "डेटा परामर्श के लिए मॉनिटरिंग एप्लिकेशन, जिसे <span class='underline'>Angular</span> और <span class='underline'>Laravel</span> के साथ बनाया गया है। इसमें <span class='underline'>chart.js</span> ग्राफिक्स लाइब्रेरी का उपयोग किया गया है।",
+            "imgs": [
+                "assets/images/proyex2/6d7d8f04-f1f0-40c7-afbb-d2944cdb4d9c.png",
+                "assets/images/proyex2/849c117f-bed9-4406-9c13-c8669f655acc.png",
+                "assets/images/proyex2/62cdf90c-6196-4a6e-b639-8919cda4f749.png",
+                "assets/images/proyex2/8c919208-d6a8-48f4-890d-4817323b6923.png",
+                "assets/images/proyex2/8c919208-d6a8-48f4-890d-4817323b6923 (1).png"
+            ],
+            "Technologies": [
+                "Laravel",
+                "Angular",
+                "SASS",
+                "Angular Material",
+                "RxJS"
+            ]
+        },
+        {
+            "Title": "एग्रोअर्बाना",
+            "Description": "स्क्रैच से बनाया गया मॉनिटरिंग एप्लिकेशन जिसमें ऑथ मॉड्यूल, <span class='underline'>कॉन्फ़िगरेबल ग्राफ्स</span>, <span class='underline'>कॉन्फ़िगरेबल अलार्म</span>, और <span class='underline'>उपयोगकर्ता प्रबंधन</span> शामिल हैं। इसमें पैरामीटर कॉन्फ़िगरेशन के लिए रिएक्टिव फॉर्म लॉजिक भी है।",
+            "imgs": [
+                "assets/images/agrourbana/agrourbana1.png",
+                "assets/images/agrourbana/agrourbana2.png",
+                "assets/images/agrourbana/agrourbana3.png",
+                "assets/images/agrourbana/agrourbana4.png",
+                "assets/images/agrourbana/agrourbana5.png"
+            ],
+            "Technologies": [
+                "Laravel",
+                "Angular",
+                "SASS",
+                "Angular Material",
+                "RxJS"
+            ]
+        },
+        {
+            "Title": "तू सुपर प्लान",
+            "Description": "स्वास्थ्य योजना कोटेशन जिसमें एक खोज इंजन है जिससे उन्नत क्वेरी की जा सकती हैं। योजनाएं उपयोगकर्ता की आयु, मासिक आय और स्थान के आधार पर प्रदर्शित होती हैं। इसमें <span class='underline'>ऑनलाइन चैट</span>, <span class='underline'>संपर्क फ़ॉर्म</span>, <span class='underline'>व्हाट्सएप और मेल द्वारा नोटिफिकेशन सिस्टम</span>, <span class='underline'>ऑथ</span>, और <span class='underline'>प्रशासक द्वारा इंटरनेट सूचना प्रबंधन</span> है।",
+            "imgs": [
+                "assets/images/tusuperplan/tusuperplan1.png",
+                "assets/images/tusuperplan/tusuperplan2.png",
+                "assets/images/tusuperplan/tusuperplan3.png",
+                "assets/images/tusuperplan/tusuperplan4.png",
+                "assets/images/tusuperplan/tusuperplan5.png"
+            ],
+            "Technologies": [
+                "Laravel",
+                "Angular",
+                "SASS",
+                "Angular Material",
+                "RxJS"
+            ]
+        },
+        {
+            "Title": "प्रोयेक्सआईओटी",
+            "Description": "यह डेटा मॉनिटरिंग प्लेटफार्म है जो पानी के कुओं, टगबोट्स, और विभिन्न स्थापनाओं से संबंधित है, जिसे स्क्रैच से बनाया गया है। इसमें ऑथ मॉड्यूल, <span class='underline'>कॉन्फ़िगरेबल ग्राफिक्स</span>, <span class='underline'>कॉन्फ़िगरेबल अलार्म</span>, <span class='underline'>उपयोगकर्ता प्रबंधन</span>, और <span class='underline'>जिओलोकेशन ओपनलेयर्स के साथ</span> शामिल हैं।",
+            "imgs": [
+                "assets/images/proyex/proyex1.png",
+                "assets/images/proyex/proyex2.png",
+                "assets/images/proyex/proyex3.png",
+                "assets/images/proyex/proyex4.png",
+                "assets/images/proyex/proyex5.png",
+                "assets/images/proyex/proyex6.png",
+                "assets/images/proyex/proyex7.png",
+                "assets/images/proyex/proyex8.png",
+                "assets/images/proyex/proyex9.png",
+                "assets/images/proyex/proyex10.png",
+                "assets/images/proyex/proyex11.png",
+                "assets/images/proyex/proyex12.png"
+            ],
+            "Technologies": [
+                "Laravel",
+                "Angular",
+                "SASS",
+                "Angular Material",
+                "RxJS"
+            ]
+        },
+        {
+            "Title": "हैंड्स गेम",
+            "Description": "यह रॉक-पेपर-सीज़र्स गेम है जिसे बढ़ाया गया है। यह एक व्यक्तिगत परियोजना है जिसे Angular में विकसित किया गया है, जिसमें आप मशीन के खिलाफ रैंडमली खेलते हैं। इसमें सेवाओं, इंटरफेस, और घटकों का उपयोग किया गया है।",
+            "imgs": [
+                "assets/images/hands-game.png"
+            ],
+            "ghLink": "https://github.com/andresjosehr/hands-game",
+            "demoLink": "https://projects.andresjosehr.com/hands-game",
+            "Technologies": [
+                "Angular",
+                "CSS GRID",
+                "SASS",
+                "Angular Animations"
+            ]
+        },
+        {
+            "Title": "देशों का व्यूअर",
+            "Description": "एक इंटरफ़ेस जो देशों की API का उपयोग करता है, जिससे आप देशों की सूची देख सकते हैं, प्रत्येक देश के विवरण देख सकते हैं, नाम और क्षेत्र के अनुसार फ़िल्टर कर सकते हैं। इसमें डार्क मोड भी है जिससे आप डार्क और लाइट थीम के बीच स्विच कर सकते हैं।",
+            "imgs": [
+                "assets/images/countries-viewer.png"
+            ],
+            "ghLink": "https://github.com/andresjosehr/countries-viewer",
+            "demoLink": "https://projects.andresjosehr.com/countries-viewer",
+            "Technologies": [
+                "Angular",
+                "RxJS",
+                "SASS",
+                "API"
+            ]
+        }
+    ],
+    "OtherProjects.Title": "अधिक प्रोजेक्ट्स",
+    "OtherProjects.Projects": [
+        {
+            "Title": "पोकेमोन",
+            "Description": "पोकेमोन खोज इंजन जो pokeapi का उपयोग करता है। पोकेमोन की जानकारी को उनके संबंधित छवियों के साथ संगठित करने के लिए ऑब्जेक्ट-ओरिएंटेड प्रोग्रामिंग का उपयोग किया गया है।",
+            "ghLink": "https://github.com/andresjosehr/pokemon-angular",
+            "demoLink": "https://projects.andresjosehr.com/pokemon-list",
+            "Technologies": [
+                "Angular",
+                "RxJs",
+                "API",
+                "Bootstrap"
+            ]
+        },
+        {
+    "Title": "जल्द आ रहा है पेज",
+    "Description": "दो-कॉलम विभाजित पेज का एक व्यक्तिगत प्रोजेक्ट जिसे 'जल्द आ रहा है पेज' के रूप में उपयोग किया जाएगा। यह पूरी तरह से प्रतिक्रियाशील डिज़ाइन होने के लिए निर्धारित है। इसमें ईमेल द्वारा सदस्यता लेने के लिए एक फ़ॉर्म फ़ील्ड है।",
+    "ghLink": "https://github.com/andresjosehr/coming-soon-page",
+    "demoLink": "https://projects.andresjosehr.com/coming-soon-page",
+    "Technologies": [
+        "Angular",
+        "SASS",
+        "CSS GRID",
+        "Reactive form"
+    ]
+},
+{
+    "Title": "फोर कार्ड फीचर सेक्शन",
+    "Description": "एक सिंगल पेज जिसमें न्यूनतम डिज़ाइन है, चार कार्डों पर चार फीचर्स को सूचीबद्ध किया गया है। इनपुट एनिमेशन Angular एनिमेशन के साथ किए गए हैं।",
+    "ghLink": "https://github.com/andresjosehr/fourd-card-feature-section",
+    "demoLink": "https://projects.andresjosehr.com/four-card-feature-section",
+    "Technologies": [
+        "Angular",
+        "SASS",
+        "CSS GRID"
+    ]
+},
+{
+    "Title": "सोशल प्रूफ सेक्शन",
+    "Description": "एक पर्सनल प्रोजेक्ट जिसमें एक पेज Figma लेआउट से डिजाइन किया गया है। विकास के लिए Angular का उपयोग किया गया है और साथ ही SASS और CSS GRID का उपयोग किया गया है।",
+    "ghLink": "https://github.com/andresjosehr/social-proof-section",
+    "demoLink": "https://projects.andresjosehr.com/social-proof-section",
+    "Technologies": [
+        "Angular",
+        "CSS GRID",
+        "GIT"
+    ]
+},
+{
+    "Title": "एफ़एक्यू अकॉर्डियन कार्ड",
+    "Description": "Angular में लॉजिक और एनिमेशन के साथ बनाया गया एफ़एक्यू अकॉर्डियन।",
+    "ghLink": "https://github.com/andresjosehr/faq-accordion",
+    "demoLink": "https://proyectos.andresjosehr.com/faq-accordion",
+    "Technologies": [
+        "Angular",
+        "CSS GRID",
+        "Angular Animations"
+    ]
+},
+{
+    "Title": "प्रोफाइल कार्ड",
+    "Description": "साधारण एक-पेज डिज़ाइन जिसमें किसी व्यक्ति की बुनियादी जानकारी के साथ एक प्रोफाइल पत्र को दर्शाया गया है।",
+    "ghLink": "https://github.com/andresjosehr/profile-card-component",
+    "demoLink": "https://proyectos.andresjosehr.com/profile-card-component",
+    "Technologies": [
+        "Angular",
+        "SASS",
+        "GIT"
+    ]
+}
+],
+"Contact.Pretitle":  "आगे क्या है",
+"Contact.Title": "संपर्क करें!",
+"Contact.Content": "यदि आप नए अवसरों के बारे में बात करना चाहते हैं तो मुझे आपका संपर्क प्राप्त करके खुशी होगी। मुझे लिखें, और मैं जैसे ही आपका संदेश देखूंगा, उत्तर दूंगा। साधारण एक-पेज डिज़ाइन जिसमें किसी व्यक्ति की बुनियादी जानकारी के साथ एक प्रोफाइल पत्र को दर्शाया गया है।",
+"Contact.Btn": "नमस्ते कहें"
+}
