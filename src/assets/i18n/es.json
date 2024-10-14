@@ -1,244 +1,247 @@
 {
-
-    "Header.Item1": "Acerca de mi",
-    "Header.Item2": "Experiencia",
-    "Header.Item3": "Proyectos",
-    "Header.Item4": "Contacto",
-    "Header.cvBtn": "Curriculum",
-    "Header.cvName": "CV_swapan.pdf",
-
-    "Banner.Pretitle": "Hola! Mi nombre es",
-    "Banner.Description": "Tengo <span class='underline'>8 años de experiencia</span> desarrollando sistemas, interfaces, bots y soluciones tecnológicas para hacer de la web un lugar mejor. Me dedico a escribir y refactorizar código limpio, reutilizable y escalable en <span class='underline'>Angular</span> y  <span class='underline'>Laravel</span> aplicando buenas practicas y estandares de desarrollo.",
-    "Banner.ActionBtn": "Saludame",
-
-    "AboutMe.Title": "Acerca de mi",
-    "AboutMe.Paragraphs": [
-        "En <span class='underline'>8 años de experiencia </span> he cubierto muchos roles: <span class='underline'>Analista de sistemas</span>, <span class='underline'>backend developer</span>, <span class='underline'>frontend developer</span> y <span class='underline'>lider técnico</span>. Me encanta aportar mis conocimientos para crear cosas nuevas que ayuden a resolver problemas.",
-        "Mis capacidades también incluyen implementar mejoras en sistemas, optimizar sitios, estandarizar patrones y sugerir y ejecutar ideas que añadan valor al proyecto en el que este trabajando.",
-        "Tambien programo cosas para mi uso personal, bien sea por hobbie o por utilidad.",
-        "Algunas de las tecnologías en las que me he capacitado y trabajado incluyen (pero no se limitan) a:"
-    ],
-
-
-    "Experience.Title": "Experiencia",
-    "Experience.Jobs": [
-      {
-        "Tab": "Global",
-        "Title": "Fullstack developer",
-        "Date": "Mayo 2023",
-        "Description": [
-          "Lider en la toma de desiciones tecnicas",
-          "Contratación de talento tecnico para la empresa",
-          "Lider de quipo del departamento de tecnología",
-          "Creación y mantenimiento de una plataforma de gestion de procesos internos para ventas de cursos",
-          "Programación de funciones y plugins personalizados para personalizacion de una plataforma de wordpress",
-          "Implementación de integración continua y respaldos diarios.",
-          "Reuniones de planificación en informes."
-        ]
-  },
-      {
-            "Tab": "Proyex",
-            "Title": "Fullstack developer",
-            "Date": "Diciembre 2019 - Mayo 2023",
-            "Description": [
-              "Creación y mantenimiento de una plataforma de monitoreo con gráficos en Wordpress.",
-              "Programación funcional en plantillas y plugins para añadir las características necesarias de monitoreo.",
-              "Implementación de integración continua y respaldos diarios.",
-              "Creación y mantenimiento de una segunda plataforma de Monitoreo Realizada en Angular, Angular Material, Laravel, Mysql, RxJS, Sass con gráficos (configurables), sistema de alarmas, y gestión de usuarios y configuración de parámetros generales.",
-              "Reuniones de planificación en informes."
-            ]
-      },
-      {
-        "Tab": "Freelancer",
-        "Title": "Independiente",
-        "Date": "Mayo 2016 - Actualidad",
-        "Description": [
-          "Implementacion de mejoras continuas, trabajando en frontend y backend.",
-          "Creacion de plataformas con Angular, Laravel, Wordpress programadas con paradigmas de programación funcional, reactiva y orientada a objetos.",
-          "Automatizacion de procesos con estructuras de datos.",
-          "Maquetacion de diseños con SASS, Bootstrap, Materialize, Bulma, etc."
-        ]
-      },
-      {
-        "Tab": "Moebius",
-        "Title": "FullStack developer",
-        "Date": "Julio 2017 - Octubre 2018",
-        "Description": [
-          "Liderando un equipo de 4 personas en el desarrollo de una plataforma de gestión de Datos de turismo hecha en Angular, Laravel y MySQL. ",
-          "Implementacion de CI/CD en Azure. Refactorizando y optimizando tiempos de carga de la aplicación.",
-          "Codificación de peticiones a API con RxJS.",
-          "Crecion de modulos con formularios reactivos complejos",
-          "Redacción de informes semanales acerca de metas y planes."
-        ]
-      },
-      {
-        "Tab": "TechLatam",
-        "Title": "Frontend developer",
-        "Date": "Febrero 2016 - Mayo 2017",
-        "Description": [
-          "Creación de plantillas de wordpress con ACF, programación funcional en Javascript / jQuery, estilos en SASS",
-          "integración de mejoras en diseño y tiempos de carga de plantillas.",
-          "Comunicación efectiva con equipo de diseño, trabajando con Avocode / Figma"
-        ]
-      },
-      {
-        "Tab": "CANTV",
-        "Title": "Analista de sistema",
-        "Date": "Noviembre 2015 - Diciembre 2016",
-        "Description": [
-          "Programacion de nuevas funcionalidades para una plataforma de gestión de empleados existente realizada en Angular y ExpressJS",
-          "Realizar refactorización de código antiguo. Asegurar la compatibilidad de cada dependencia en cada actualización, junto también con la actualización regular de Angular."
-        ]
-      },
-      {
-        "Tab": "IEP",
-        "Title": "Profesor de Inglés",
-        "Date": "Enero 2015 - Julio 2015",
-        "Description": ["Enseñando ingles a nivel básico a una matrícula de más de 200 alumnos."]
-      }
-    ],
-
-    "FeatureProjects.Title": "Mis proyectos",
-    "FeatureProjects.Label": "Proyecto Destacado",
-    "FeatureProjects.Projects": [
-      {
-        "Title": "Gisselle",
-        "Description": "Aplicacion web para gestion interna de empresa que abarca departamento de ventas, cobranza y seguimiento muy extensa y compleja con diversas funciones hecha en <span class='underline'>Angular</span> y <span class='underline'>Laravel</span>. Trabaja con <span class='underline'>websockets</span>, <span class='underline'>schedules</span>, <span class='underline'>jobs de laravel</span>, integraciones con wordpress, zadarma, liveconnect, etc.",
-        "imgs": [
-            "assets/images/gisselle/Captura de pantalla 2024-05-19 1009582.png",
-            "assets/images/gisselle/Captura de pantalla 2024-05-19 115514.png",
-            "assets/images/gisselle/Captura de pantalla 2024-05-19 115702.png",
-            "assets/images/gisselle/Captura de pantalla 2024-05-19 115829.png",
-            "assets/images/gisselle/Captura de pantalla 2024-05-19 1009582.png"
-        ],
-        "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
+  "Header.Item1": "Sobre mí",
+  "Header.Item2": "Experiencia",
+  "Header.Item3": "Proyectos",
+  "Header.Item4": "Contacto",
+  "Header.cvBtn": "Currículum",
+  "Header.cvName": "CV_swapan_paul.pdf",
+  "Banner.Pretitle": "¡Hola! Mi nombre es",
+  "Banner.Description": "Con <span class='underline'> 3.5 años de experiencia </span> en el desarrollo de sistemas robustos e interfaces intuitivas, estoy dedicado a mejorar la experiencia web a través de soluciones tecnológicas innovadoras. Mi experiencia radica en crear código limpio, reutilizable y escalable utilizando <span class='underline'> Angular </span> y <span class='underline'> Ionic </span>, asegurando la adherencia a las mejores prácticas y estándares de desarrollo. Apasionado por crear aplicaciones eficientes y fáciles de usar, busco continuamente aprovechar mis habilidades para contribuir a proyectos impactantes.",
+  "Banner.ActionBtn": "Ponte en contacto",
+  "Project.ProjectBtn": "Agregar nuevo proyecto",
+  "Project.ProjectEditBtn": "Editar proyecto",
+  "AboutMe.Title": "Sobre mí",
+  "AboutMe.Paragraphs": [
+    "En <span class='underline'>3.5 años de experiencia</span> he desempeñado muchos roles: <span class='underline'>desarrollador frontend</span>, <span class='underline'>desarrollador backend</span>, <span class='underline'>Analista de Sistemas</span> y <span class='underline'>líder técnico</span>. Me encanta aportar mis conocimientos para crear cosas nuevas que ayuden a resolver problemas.",
+    "Mis capacidades también incluyen implementar mejoras en sistemas, optimizar sitios, estandarizar patrones y sugerir y ejecutar ideas que aporten valor al proyecto en el que estoy trabajando.",
+    "También programo cosas para mi uso personal, ya sea como pasatiempo o por utilidad.",
+    "Algunas de las tecnologías en las que me he formado y trabajado incluyen (pero no se limitan a):"
+  ],
+  "Experience.Title": "Experiencia",
+  "Experience.Jobs": [
+    {
+      "Tab": "Quadralyst pvt ltd",
+      "Title": "Desarrollador Full Stack",
+      "Date": "Octubre 2021 - Julio 2023",
+      "Description": [
+        "Desarrollo de cinco proyectos en Quadralyst, utilizando Angular e Ionic para construir aplicaciones web y móviles responsivas.",
+        "Se utilizó Cloud Firebase para los servicios backend y Firebase para la gestión de datos, asegurando soluciones robustas y escalables.",
+        "Participación activa en la planificación de proyectos, definiendo metas, cronogramas y asegurando la entrega exitosa.",
+        "Desarrollo de funcionalidades clave en los proyectos, mejorando la experiencia del usuario y optimizando el rendimiento de las aplicaciones."
+      ]
     },
-
     {
-      "Title": "Emelteciot",
-      "Description": "Aplicación de monitoreo para consulta de datos, hecha con <span class='underline'>Angular</span> y <span class='underline'>Laravel</span>. Se aplica la libreria de graficos <span class='underline'>chart.js</span>",
-      "imgs": [
-          "assets/images/proyex2/6d7d8f04-f1f0-40c7-afbb-d2944cdb4d9c.png",
-          "assets/images/proyex2/849c117f-bed9-4406-9c13-c8669f655acc.png",
-          "assets/images/proyex2/62cdf90c-6196-4a6e-b639-8919cda4f749.png",
-          "assets/images/proyex2/8c919208-d6a8-48f4-890d-4817323b6923.png",
-          "assets/images/proyex2/8c919208-d6a8-48f4-890d-4817323b6923 (1).png"
-      ],
-      "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
-  },
-
+      "Tab": "Technogiq It Solutions pvt ltd",
+      "Title": "Desarrollador Full Stack",
+      "Date": "Julio 2023 – Presente",
+      "Description": [
+        "Entrega exitosa de proyectos, aplicando Angular e Ionic para crear aplicaciones dinámicas y responsivas tanto para plataformas móviles como web.",
+        "Utilización de Cloud Firebase como infraestructura backend y Firebase para la gestión de bases de datos, asegurando soluciones eficientes y escalables.",
+        "Participación activa en la planificación de proyectos, estableciendo objetivos claros, gestionando cronogramas y asegurando la alineación con las expectativas del cliente.",
+        "Enfoque en el desarrollo de funcionalidades clave que mejoran el rendimiento de la aplicación y brindan una experiencia de usuario sin problemas."
+      ]
+    }
+  ],
+  "FeatureProjects.Title": "Mis proyectos",
+  "FeatureProjects.Label": "Proyecto destacado",
+  "FeatureProjects.Projects": [
     {
-      "Title": "Agrourbana",
-      "Description": "Aplicación de monitoreo realizada desde cero con módulo de auth, <span class='underline'>gráficos configurables</span>, <span class='underline'>alarmas configurables</span> y <span class='underline'>gestión de usuarios</span>. Cuenta también con lógica de formularios reactvios para la configuración de parámetros.",
+      "Title": "Lights There",
+      "Description": "El proyecto integra tecnología de <span class='underline'>escaneo de tarjetas</span> y <span class='underline'>códigos de barras</span>, permitiendo a los usuarios <span class='underline'>capturar</span> y guardar información detallada de tarjetas de presentación. Esta función extrae y almacena datos clave como detalles de contacto, recuerdos e información del autor directamente desde la tarjeta escaneada, simplificando el proceso de gestión de información para los usuarios. La aplicación mejora la productividad del usuario al simplificar la entrada de datos y proporcionar una forma intuitiva de almacenar detalles comerciales esenciales.",
       "imgs": [
-          "assets/images/agrourbana/agrourbana1.png",
-          "assets/images/agrourbana/agrourbana2.png",
-          "assets/images/agrourbana/agrourbana3.png",
-          "assets/images/agrourbana/agrourbana4.png",
-          "assets/images/agrourbana/agrourbana5.png"
+        "assets/images/gisselle/Captura de pantalla 2024-05-19 1009582.png",
+        "assets/images/gisselle/Captura de pantalla 2024-05-19 115514.png",
+        "assets/images/gisselle/Captura de pantalla 2024-05-19 115702.png",
+        "assets/images/gisselle/Captura de pantalla 2024-05-19 115829.png",
+        "assets/images/gisselle/Captura de pantalla 2024-05-19 1009582.png"
       ],
-      "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
-  },
-        {
-            "Title": "Tu super plan",
-            "Description": "Cotizador de planes de salud que cuenta con un buscador con el que se hacen consultas avanzadas. Los planes son mostrados en base a la edad, ingreso mensual y ubicacion del usuario. Cuenta con <span class='underline'>chat en linea</span>, <span class='underline'>formulario de contacto</span>, <span class='underline'>sistema de notificaiones por whatsapp y correo</span>, <span class='underline'>auth</span>, y <span class='underline'>gestion de informacion internet a travez del rol de administrador</span>.",
-            "imgs": [
-                "assets/images/tusuperplan/tusuperplan1.png",
-                "assets/images/tusuperplan/tusuperplan2.png",
-                "assets/images/tusuperplan/tusuperplan3.png",
-                "assets/images/tusuperplan/tusuperplan4.png",
-                "assets/images/tusuperplan/tusuperplan5.png"
-            ],
-            "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
-        },
-        {
-            "Title": "Proyexiot",
-            "Description": "Plataforma de monitoreo de datos pertenecientes a pozos de agua, remolcadores y diversas instalaciones realizada desde cero con módulo de auth, <span class='underline'>gráficos configurables</span>, <span class='underline'>alarmas configurables</span>, <span class='underline'>gestión de usuarios</span> y <span class='underline'>geolocalizacion con openlayers.</span> Cuenta también con lógica de formularios reactivos para la configuración de parámetros.",
-            "imgs": [
-                "assets/images/proyex/proyex1.png",
-                "assets/images/proyex/proyex2.png",
-                "assets/images/proyex/proyex3.png",
-                "assets/images/proyex/proyex4.png",
-                "assets/images/proyex/proyex5.png",
-                "assets/images/proyex/proyex6.png",
-                "assets/images/proyex/proyex7.png",
-                "assets/images/proyex/proyex8.png",
-                "assets/images/proyex/proyex9.png",
-                "assets/images/proyex/proyex10.png",
-                "assets/images/proyex/proyex11.png",
-                "assets/images/proyex/proyex12.png"
-            ],
-            "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
-        },
-        {
-            "Title": "Hands game",
-            "Description": "Juego de piedra papel y tijeras extendido. Un proyecto personal desarrollado en angular en el que juegas al azar contra la máquina. Cuenta con la utilización de servicios, interfaces y componentes.",
-            "imgs": ["assets/images/hands-game.png"],
-            "ghLink": "https://github.com/andresjosehr/hands-game",
-            "demoLink": "https://proyectos.andresjosehr.com/hands-game",
-            "Technologies": ["Angular", "CSS GRID", "SASS", "Angular animations"]
-        },
-        {
-            "Title": "Countries viewer",
-            "Description": "Interfaz que consume una API de países con el que se pueden visualizar lista de países, ver detalles de cada país, filtrar por nombre y región. Ademas cuenta con un dark mode para alternar entre el tema oscuro y el claro.",
-            "imgs": ["assets/images/countries-viewer.png"],
-            "ghLink": "https://github.com/andresjosehr/countries-viewer",
-            "demoLink": "https://proyectos.andresjosehr.com/countries-viewer",
-            "Technologies": ["Angular", "RxJS", "SASS", "API"]
-        }
-    ],
-
-
-
-    "OtherProjects.Title": "Mas proyectos",
-    "OtherProjects.Projects": [{
-            "Title": "Pokemon",
-            "Description": "Buscador de pokemons que utiliza la pokeapi. Se usó programación orientada a objetos para organizar la información de los pokemons junto con su respectiva imagen.",
-            "ghLink": "https://github.com/andresjosehr/pokemon-angular",
-            "demoLink": "https://proyectos.andresjosehr.com/pokemon-list",
-            "Technologies": ["Angular", "RxJs", "API", "Bootstrap"]
-        },
-        {
-            "Title": "Coming soon page",
-            "Description": "Proyecto personal de una página dividida de dos columnas para ser usado como 'Coming soon page'. Programada para ser totalmente responsive design. Cuenta con un campo de formulario para suscribirse por correo electrónico.",
-            "ghLink": "https://github.com/andresjosehr/coming-soon-page",
-            "demoLink": "https://proyectos.andresjosehr.com/coming-soon-page",
-            "Technologies": ["Angular", "SASS", "CSS GRID", "Reactive form"]
-        },
-        {
-            "Title": "Four card feature section",
-            "Description": "Una sola página que cuenta con un diseño minimalista que enumera 4 características en 4 cards. Se usan animaciones de entrada con angular animations.",
-            "ghLink": "https://github.com/andresjosehr/fourd-card-feature-section",
-            "demoLink": "https://proyectos.andresjosehr.com/four-card-feature-section",
-            "Technologies": ["Angular", "SASS", "CSS GRID"]
-        },
-        {
-            "Title": "Social proof section",
-            "Description": "Proyecto personal de una página diseñada a partir de un diseño hecho en figma. Se utilizó angular para el desarrollo junto con SASS y CSS GRID.",
-            "ghLink": "https://github.com/andresjosehr/social-proof-section",
-            "demoLink": "https://proyectos.andresjosehr.com/social-proof-section",
-            "Technologies": ["Angular", "CSS GRID", "GIT"]
-        },
-        {
-            "Title": "FAQ accordion card",
-            "Description": "Acordeón de preguntas frecuentes con lógica y animnaciones realizadas en Angular.",
-            "ghLink": "https://github.com/andresjosehr/faq-accordion",
-            "demoLink": "https://proyectos.andresjosehr.com/faq-accordion",
-            "Technologies": ["Angular", "CSS GRID", "Angular animations"]
-        },
-        {
-            "Title": "Profile card",
-            "Description": "Simple diseño de una página que cuenta con una carta de perfil con información básica de una persona.",
-            "ghLink": "https://github.com/andresjosehr/profile-card-component",
-            "demoLink": "https://proyectos.andresjosehr.com/profile-card-component",
-            "Technologies": ["Angular", "SASS", "GIT"]
-        }
-    ],
-
-    "Contact.Pretitle": "Y... ¿Ahora?",
-    "Contact.Title": "¡Salúdame!",
-    "Contact.Content": "Estaré encantado de recibir tu contacto si quieres conversar acerca de nuevas oportunidades. Escríbeme, y te responderé tan pronto como vea tu mensaje.",
-    "Contact.Btn": "Contactame"
-
-
+      "demoLink": "https://play.google.com/store/apps/details?id=io.lights.starter",
+      "Technologies": [
+        "Ionic",
+        "Angular",
+        "SASS",
+        "RxJS",
+        "Firebase",
+        "Bootstrap"
+      ]
+    },
+    {
+      "Title": "HSBC",
+      "Description": "La app bancaria de <span class='underline'>HSBC</span> ofrece un panel de productividad diseñado para optimizar la gestión de tareas y la planificación. Los usuarios pueden <span class='underline'>rastrear tareas</span>, <span class='underline'>monitorear el progreso</span> y organizar sus actividades diarias de manera eficiente, garantizando una productividad óptima y operaciones bancarias sin interrupciones.",
+      "imgs": [
+        "assets/images/proyex2/6d7d8f04-f1f0-40c7-afbb-d2944cdb4d9c.png",
+        "assets/images/proyex2/849c117f-bed9-4406-9c13-c8669f655acc.png",
+        "assets/images/proyex2/62cdf90c-6196-4a6e-b639-8919cda4f749.png",
+        "assets/images/proyex2/8c919208-d6a8-48f4-890d-4817323b6923.png",
+        "assets/images/proyex2/8c919208-d6a8-48f4-890d-4817323b6923 (1).png"
+      ],
+      "demoLink": "https://demo2.smarbl.com",
+      "Technologies": [
+        "Angular",
+        "Express.js",
+        "SASS",
+        "Angular Material",
+        "MongoDB",
+        "RxJS",
+        "Bootstrap"
+      ]
+    },
+    {
+      "Title": "Medstoch",
+      "Description": "Medstoch es una aplicación de cadena de suministro y red empresarial diseñada para <span class='underline'>distribuidores farmacéuticos</span> y <span class='underline'>minoristas</span>. Proporciona una plataforma fluida para gestionar operaciones mayoristas de <span class='underline'>medicamentos</span>, ofreciendo aplicaciones móviles fáciles de usar tanto para los usuarios como para el personal de entrega. Además, un panel de administración a través de un sitio web permite la gestión eficiente de pedidos, entregas e inventarios, optimizando toda la cadena de suministro farmacéutica.",
+      "imgs": [
+        "assets/images/agrourbana/agrourbana1.png",
+        "assets/images/agrourbana/agrourbana2.png",
+        "assets/images/agrourbana/agrourbana3.png",
+        "assets/images/agrourbana/agrourbana4.png",
+        "assets/images/agrourbana/agrourbana5.png"
+      ],
+      "demoLink": "https://medstoch.in/login",
+      "Technologies": [
+        "Angular",
+        "Ionic",
+        "SASS",
+        "Angular Material",
+        "Firebase",
+        "RxJS",
+        "Bootstrap"
+      ]
+    },
+    {
+      "Title": "Pub Partner",
+      "Description": "Una aplicación de redes sociales diseñada para ayudar a los usuarios a encontrar un <span class='underline'>compañero de pub</span>. Los usuarios pueden conectarse, <span class='underline'>chatear</span> y <span class='underline'>programar encuentros</span>, seleccionando tanto la fecha como el pub para su reunión. La aplicación facilita la planificación y comunicación, haciendo que sea conveniente para las personas encontrar compañeros de pub con intereses similares.",
+      "imgs": [
+        "assets/images/tusuperplan/tusuperplan1.png",
+        "assets/images/tusuperplan/tusuperplan2.png",
+        "assets/images/tusuperplan/tusuperplan3.png",
+        "assets/images/tusuperplan/tusuperplan4.png",
+        "assets/images/tusuperplan/tusuperplan5.png"
+      ],
+      "demoLink": "https://play.google.com/store/apps/details?id=io.pubpartner.starter",
+      "Technologies": [
+        "Ionic",
+        "Angular",
+        "SASS",
+        "Firebase",
+        "RxJS",
+        "Laravel",
+        "Bootstrap"
+      ]
+    },
+    {
+      "Title": "PartyTambola",
+      "Description": "Una aplicación digital de <span class='underline'>Tambola/Housie</span> que permite a los usuarios disfrutar del clásico <span class='underline'>juego</span> sin necesidad de boletos físicos o bolígrafos. La aplicación permite a los jugadores unirse a juegos, generar boletos digitales y marcar números automáticamente, proporcionando una forma moderna y fluida de experimentar Tambola.",
+      "imgs": [
+        "assets/images/proyex/proyex1.png",
+        "assets/images/proyex/proyex2.png",
+        "assets/images/proyex/proyex3.png",
+        "assets/images/proyex/proyex4.png",
+        "assets/images/proyex/proyex5.png",
+        "assets/images/proyex/proyex6.png",
+        "assets/images/proyex/proyex7.png",
+        "assets/images/proyex/proyex8.png",
+        "assets/images/proyex/proyex9.png",
+        "assets/images/proyex/proyex10.png",
+        "assets/images/proyex/proyex11.png",
+        "assets/images/proyex/proyex12.png"
+      ],
+      "demoLink": "https://play.google.com/store/search?q=party+tambola&c=apps",
+      "Technologies": [
+        "Ionic",
+        "SASS",
+        "Firebase",
+        "RxJS",
+        "Bootstrap"
+      ]
+    },
+    {
+      "Title": "Vlees-in-the-Box",
+      "Description": "<span class='underline'>Vlees-in-the-Box</span> es un carnicero en línea que ofrece carne premium recién cortada <span class='underline'>entregada</span> directamente a tu puerta. Con un enfoque en cortes de alta calidad y carnes preparadas por expertos, proporciona la comodidad de la entrega a domicilio, asegurando que los clientes disfruten de productos frescos y deliciosos.",
+      "imgs": [
+        "assets/images/hands-game.png"
+      ],
+      "demoLink": "https://www.vlees-in-the-box.be",
+      "ghLink": "",
+      "Technologies": [
+        "Angular",
+        "Ionic",
+        "Firebase",
+        "SASS",
+        "Animaciones de Angular",
+        "Express.js",
+        "MongoDb",
+        "Bootstrap"
+      ]
+    },
+    {
+      "Title": "Rullo",
+      "Description": "Una <span class='underline'>aplicación móvil</span> que permite a los usuarios descubrir <span class='underline'>bares</span> y <span class='underline'>restaurantes cercanos</span> con calificaciones en tiempo real, imágenes y la integración de mapas para una búsqueda basada en la <span class='underline'>ubicación</span>. La aplicación ayuda a los usuarios a explorar nuevos lugares, ver reseñas y encontrar fácilmente los mejores sitios para comer y beber según sus preferencias y ubicación.",
+      "imgs": [
+        "assets/images/countries-viewer.png"
+      ],
+      "demoLink": "https://apps.apple.com/in/app/pubpursuit-app/id6443941186",
+      "ghLink": "",
+      "Technologies": [
+        "Ionic",
+        "Angular",
+        "RxJS",
+        "SASS",
+        "API",
+        "Firebase",
+        "Bootstrap"
+      ]
+    }
+  ],
+  "OtherProjects.Title": "Más proyectos",
+  "OtherProjects.Projects": [
+    {
+      "Title": "Train Me Hire Me",
+      "Description": "Una aplicación de búsqueda de empleo y desarrollo profesional diseñada para conectar a los usuarios con oportunidades laborales, al mismo tiempo que ofrece recursos para mejorar habilidades. Los usuarios pueden explorar ofertas de empleo, recibir asesoramiento profesional y acceder a materiales de formación para mejorar su empleabilidad.",
+      "demoLink": "https://play.google.com/store/apps/details?id=in.trainmehireme.app",
+      "Technologies": [
+        "Angular",
+        "RxJs",
+        "API",
+        "Bootstrap"
+      ]
+    },
+    {
+      "Title": "Step It APP",
+      "Description": "Una aplicación de fitness de última generación que utiliza una placa ESP32 para proporcionar seguimiento en tiempo real de datos de ejercicio. Esta aplicación se conecta sin problemas con un dispositivo móvil a través de Bluetooth, permitiendo a los usuarios monitorear sus entrenamientos.",
+      "demoLink": "",
+      "Technologies": [
+        "Angular",
+        "SASS",
+        "CSS GRID",
+        "Formulario Reactivo",
+        "Bootstrap"
+      ]
+    },
+    {
+      "Title": "Bhautiki",
+      "Description": "Una aplicación educativa diseñada específicamente para ayudar a los estudiantes a prepararse para el JEE y el NEET. La aplicación ofrece un conjunto completo de recursos, incluidas videoconferencias, pruebas de práctica, materiales de estudio y análisis de rendimiento.",
+      "demoLink": "https://play.google.com/store/apps/details?id=co.april2019.bip",
+      "Technologies": [
+        "Angular",
+        "SASS",
+        "CSS",
+        "Bootstrap"
+      ]
+    },
+    {
+      "Title": "Standard Bank",
+      "Description": "Una aplicación de respuesta a emergencias que integra varios servicios en una sola plataforma, revolucionando la forma en que las personas enfrentan situaciones de emergencia.",
+      "demoLink": "https://play.google.com/store/apps/details?id=io.bank.standard",
+      "Technologies": [
+        "Ionic",
+        "SASS",
+        "RxJs",
+        "Bootstrap"
+      ]
+    }
+  ],
+  "Contact.Pretitle": "¿Qué sigue?",
+  "Contact.Title": "¡Ponte en contacto!",
+  "Contact.Content": "Estaré encantado de recibir tu mensaje si deseas hablar sobre nuevas oportunidades. Escríbeme y responderé tan pronto como vea tu mensaje. Diseño de una sola página que presenta una carta de perfil con información básica sobre una persona.",
+  "Contact.Btn": "Saluda"
 }

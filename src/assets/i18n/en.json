@@ -1,16 +1,15 @@
 {
-
-    "Header.Item1" : "About me",
-    "Header.Item2" : "Experience",
-    "Header.Item3" : "Projects",
-    "Header.Item4" : "Contact",
-    "Header.cvBtn" : "Resume",
+    "Header.Item1": "About me",
+    "Header.Item2": "Experience",
+    "Header.Item3": "Projects",
+    "Header.Item4": "Contact",
+    "Header.cvBtn": "Resume",
     "Header.cvName": "CV_swapan_paul.pdf",
-
     "Banner.Pretitle": "Hello! My name is",
-    "Banner.Description": "I have <span class='underline'>3.5 years of experience</span> developing systems, interfaces, bots, and technological solutions to make the web a better place. I focus on writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular</span> and <span class='underline'>Ionic</span>, applying good practices and development standards.",
+    "Banner.Description": "With <span class='underline'> 3.5 years of experience </span> in developing robust systems and intuitive interfaces, I am dedicated to enhancing the web experience through innovative technological solutions. My expertise lies in crafting clean, reusable, and scalable code using <span class='underline'> Angular </span> and <span class='underline'> Ionic </span>, ensuring adherence to best practices and development standards. Passionate about creating efficient and user-friendly applications, I continually seek to leverage my skills to contribute to impactful projects.",
     "Banner.ActionBtn": "Get in touch",
-
+    "Project.ProjectBtn": "Add New Project",
+    "Project.ProjectEditBtn": "Edit project",
     "AboutMe.Title": "About me",
     "AboutMe.Paragraphs": [
         "In <span class='underline'>3.5 years of experience</span> I've covered many roles: <span class='underline'>frontend developer</span>, <span class='underline'>backend developer</span>, <span class='underline'>System Analyst</span>, and <span class='underline'>technical leader</span>. I love contributing my knowledge to create new things that help solve problems.",
@@ -18,11 +17,8 @@
         "I also program things for my personal use, whether as a hobby or for utility.",
         "Some of the technologies that I have trained and worked on include (but are not limited to):"
     ],
-
-
     "Experience.Title": "Experience",
     "Experience.Jobs": [
-        
         {
             "Tab": "Quadralyst pvt ltd",
             "Title": "Full Stack developer",
@@ -33,63 +29,83 @@
                 "Actively participated in project planning, defining project goals, timelines, and ensuring successful delivery.",
                 "Developed key functionalities across projects, enhancing user experiences and optimizing application performance."
             ]
-      },
-      {
+        },
+        {
             "Tab": "Technogiq It Solutions pvt ltd",
             "Title": "Full Stack developer",
             "Date": "July 2023 – Present",
             "Description": [
-              
-              "Successfully delivered projects, applying Angular and Ionic to create dynamic and responsive applications for both mobile and web platforms.",
-              "Utilized Cloud Firebase as the backend infrastructure and Firebase for database management, ensuring efficient and scalable solutions.",
-              "Took an active role in project planning, setting clear objectives, managing timelines, and ensuring alignment with client expectations.",
-              "Focused on developing core functionalities that enhanced application performance and provided a seamless user experience."
+                "Successfully delivered projects, applying Angular and Ionic to create dynamic and responsive applications for both mobile and web platforms.",
+                "Utilized Cloud Firebase as the backend infrastructure and Firebase for database management, ensuring efficient and scalable solutions.",
+                "Took an active role in project planning, setting clear objectives, managing timelines, and ensuring alignment with client expectations.",
+                "Focused on developing core functionalities that enhanced application performance and provided a seamless user experience."
             ]
         }
     ],
-
     "FeatureProjects.Title": "My projects",
     "FeatureProjects.Label": "Featured Project",
-    "FeatureProjects.Projects": [{
-        "Title": " Lights There ",
-        "Description": "The project integrates <span class='underline'> card </span> and <span class='underline'> barcode </span> scanning technology, allowing users to <span class='underline'> capture </span> and save detailed information from business cards. This feature extracts and stores key data such as contact details, memories, and author information directly from the scanned card, streamlining the process of information management for users. The app enhances user productivity by simplifying data entry and providing an intuitive way to store essential business details.",
-        "imgs": [
-        "assets/images/gisselle/Captura de pantalla 2024-05-19 1009582.png",
-        "assets/images/gisselle/Captura de pantalla 2024-05-19 115514.png",
-        "assets/images/gisselle/Captura de pantalla 2024-05-19 115702.png",
-        "assets/images/gisselle/Captura de pantalla 2024-05-19 115829.png",
-        "assets/images/gisselle/Captura de pantalla 2024-05-19 1009582.png"
-        ],
-        "demoLink": "https://play.google.com/store/apps/details?id=io.lights.starter",
-        "Technologies": ["Ionic", "Angular", "SASS", "RxJS", "Firebase", "Bootstrap"]
-        },
-        
+    "FeatureProjects.Projects": [
         {
-          "Title": "HSBC",
-          "Description": "The <span class='underline'> HSBC </span> banking app provides a comprehensive productivity dashboard designed to streamline task management and planning. Users can efficiently <span class='underline'> track tasks </span>, <span class='underline'> monitor progress </span>, and   organize their daily activities, ensuring optimal productivity and seamless banking operations.",
-          "imgs": [
-              "assets/images/proyex2/6d7d8f04-f1f0-40c7-afbb-d2944cdb4d9c.png",
-              "assets/images/proyex2/849c117f-bed9-4406-9c13-c8669f655acc.png",
-              "assets/images/proyex2/62cdf90c-6196-4a6e-b639-8919cda4f749.png",
-              "assets/images/proyex2/8c919208-d6a8-48f4-890d-4817323b6923.png",
-              "assets/images/proyex2/8c919208-d6a8-48f4-890d-4817323b6923 (1).png"
-          ],
-          "demoLink": "https://demo2.smarbl.com",
-          "Technologies": [ "Angular", "Express.js", "SASS", "Angular Material", "MomgoDB", "RxJS", "Bootstrap"]
+            "Title": " Lights There ",
+            "Description": "The project integrates <span class='underline'> card </span> and <span class='underline'> barcode </span> scanning technology, allowing users to <span class='underline'> capture </span> and save detailed information from business cards. This feature extracts and stores key data such as contact details, memories, and author information directly from the scanned card, streamlining the process of information management for users. The app enhances user productivity by simplifying data entry and providing an intuitive way to store essential business details.",
+            "imgs": [
+                "assets/images/gisselle/Captura de pantalla 2024-05-19 1009582.png",
+                "assets/images/gisselle/Captura de pantalla 2024-05-19 115514.png",
+                "assets/images/gisselle/Captura de pantalla 2024-05-19 115702.png",
+                "assets/images/gisselle/Captura de pantalla 2024-05-19 115829.png",
+                "assets/images/gisselle/Captura de pantalla 2024-05-19 1009582.png"
+            ],
+            "demoLink": "https://play.google.com/store/apps/details?id=io.lights.starter",
+            "Technologies": [
+                "Ionic",
+                "Angular",
+                "SASS",
+                "RxJS",
+                "Firebase",
+                "Bootstrap"
+            ]
         },
-        
         {
-          "Title": "Medstoch",
-          "Description": "Medstoch is a supply chain and business network app tailored for <span class='underline'> pharmaceutical stockists </span> and <span class='underline'> retailers </span>. It provides a seamless platform for managing <span class='underline'> medicine wholesale </span> operations, featuring user-friendly mobile apps for both users and delivery personnel. In addition, an admin dashboard via a website allows efficient management of orders, deliveries, and inventory, streamlining the entire pharmaceutical supply chain.",
-          "imgs": [
-              "assets/images/agrourbana/agrourbana1.png",
-              "assets/images/agrourbana/agrourbana2.png",
-              "assets/images/agrourbana/agrourbana3.png",
-              "assets/images/agrourbana/agrourbana4.png",
-              "assets/images/agrourbana/agrourbana5.png"
-          ],
-          "demoLink": "https://medstoch.in/login",
-          "Technologies": [ "Angular", "Ionic", "SASS", "Angular Material", "Firebase", "RxJS", "Bootstrap"]
+            "Title": "HSBC",
+            "Description": "The <span class='underline'> HSBC </span> banking app provides a comprehensive productivity dashboard designed to streamline task management and planning. Users can efficiently <span class='underline'> track tasks </span>, <span class='underline'> monitor progress </span>, and   organize their daily activities, ensuring optimal productivity and seamless banking operations.",
+            "imgs": [
+                "assets/images/proyex2/6d7d8f04-f1f0-40c7-afbb-d2944cdb4d9c.png",
+                "assets/images/proyex2/849c117f-bed9-4406-9c13-c8669f655acc.png",
+                "assets/images/proyex2/62cdf90c-6196-4a6e-b639-8919cda4f749.png",
+                "assets/images/proyex2/8c919208-d6a8-48f4-890d-4817323b6923.png",
+                "assets/images/proyex2/8c919208-d6a8-48f4-890d-4817323b6923 (1).png"
+            ],
+            "demoLink": "https://demo2.smarbl.com",
+            "Technologies": [
+                "Angular",
+                "Express.js",
+                "SASS",
+                "Angular Material",
+                "MomgoDB",
+                "RxJS",
+                "Bootstrap"
+            ]
+        },
+        {
+            "Title": "Medstoch",
+            "Description": "Medstoch is a supply chain and business network app tailored for <span class='underline'> pharmaceutical stockists </span> and <span class='underline'> retailers </span>. It provides a seamless platform for managing <span class='underline'> medicine wholesale </span> operations, featuring user-friendly mobile apps for both users and delivery personnel. In addition, an admin dashboard via a website allows efficient management of orders, deliveries, and inventory, streamlining the entire pharmaceutical supply chain.",
+            "imgs": [
+                "assets/images/agrourbana/agrourbana1.png",
+                "assets/images/agrourbana/agrourbana2.png",
+                "assets/images/agrourbana/agrourbana3.png",
+                "assets/images/agrourbana/agrourbana4.png",
+                "assets/images/agrourbana/agrourbana5.png"
+            ],
+            "demoLink": "https://medstoch.in/login",
+            "Technologies": [
+                "Angular",
+                "Ionic",
+                "SASS",
+                "Angular Material",
+                "Firebase",
+                "RxJS",
+                "Bootstrap"
+            ]
         },
         {
             "Title": " Pub Partner ",
@@ -102,7 +118,15 @@
                 "assets/images/tusuperplan/tusuperplan5.png"
             ],
             "demoLink": "https://play.google.com/store/apps/details?id=io.pubpartner.starter",
-            "Technologies": [ "Ionic", "Angular", "SASS", "Firebase", "RxJS", "Laravel", "Bootstrap"]
+            "Technologies": [
+                "Ionic",
+                "Angular",
+                "SASS",
+                "Firebase",
+                "RxJS",
+                "Laravel",
+                "Bootstrap"
+            ]
         },
         {
             "Title": "PartyTambola",
@@ -122,58 +146,102 @@
                 "assets/images/proyex/proyex12.png"
             ],
             "demoLink": "https://play.google.com/store/search?q=party+tambola&c=apps",
-            "Technologies": ["Ionic", "SASS", "Firebase", "RxJS", "Bootstrap"]
+            "Technologies": [
+                "Ionic",
+                "SASS",
+                "Firebase",
+                "RxJS",
+                "Bootstrap"
+            ]
         },
         {
             "Title": "Vlees-in-the-Box",
             "Description": "<span class='underline'> Vlees-in-the-Box </span> is an online butcher offering premium, freshly cut <span class='underline'> meat delivered </span> straight to your door. With a focus on high-quality cuts and expertly prepared meats, it provides the convenience of home delivery, ensuring customers enjoy fresh and delicious products at their fingertips.",
-            "imgs": ["assets/images/hands-game.png"],
+            "imgs": [
+                "assets/images/hands-game.png"
+            ],
             "demoLink": "https://www.vlees-in-the-box.be",
             "ghLink": "",
-            "Technologies": ["Angular", "Ionic", "Firebase", "SASS", "Angular animations", "Express.js", "MongoDb", "Bootstrap"]
+            "Technologies": [
+                "Angular",
+                "Ionic",
+                "Firebase",
+                "SASS",
+                "Angular animations",
+                "Express.js",
+                "MongoDb",
+                "Bootstrap"
+            ]
         },
         {
             "Title": "Rullo",
             "Description": "A <span class='underline'> mobile application </span> that enables users to discover <span class='underline'> nearby bars </span> and <span class='underline'> restaurants </span> with real-time ratings, images, and map integration for a <span class='underline'> location-based </span> search. The app helps users explore new spots, see reviews, and easily find the best places to eat and drink based on their preferences and location.",
-            "imgs": ["assets/images/countries-viewer.png"],
+            "imgs": [
+                "assets/images/countries-viewer.png"
+            ],
             "demoLink": "https://apps.apple.com/in/app/pubpursuit-app/id6443941186",
             "ghLink": "",
-            "Technologies": ["Ionic", "Angular", "RxJS", "SASS", "API", "Firebase", "Bootstrap"]
+            "Technologies": [
+                "Ionic",
+                "Angular",
+                "RxJS",
+                "SASS",
+                "API",
+                "Firebase",
+                "Bootstrap"
+            ]
         }
     ],
-
-
-
     "OtherProjects.Title": "More projects",
-    "OtherProjects.Projects": [{
+    "OtherProjects.Projects": [
+        {
             "Title": "Train Me Hire Me",
             "Description": "A job searching and career development app designed to connect users with job opportunities while providing resources for skill enhancement. Users can browse job listings, receive career advice, and access training materials to improve their employability.",
             "demoLink": "https://play.google.com/store/apps/details?id=in.trainmehireme.app",
-            "Technologies": ["Angular", "RxJs", "API", "Bootstrap"]
+            "Technologies": [
+                "Angular",
+                "RxJs",
+                "API",
+                "Bootstrap"
+            ]
         },
         {
             "Title": "Step It APP",
             "Description": "A cutting-edge fitness application that leverages an ESP32 board to provide real-time tracking of exercise data. This app connects seamlessly with a mobile device via Bluetooth, allowing users to monitor their workouts.",
             "demoLink": "",
-            "Technologies": ["Angular", "SASS", "CSS GRID", "Reactive form", "Bootstrap"]
+            "Technologies": [
+                "Angular",
+                "SASS",
+                "CSS GRID",
+                "Reactive form",
+                "Bootstrap"
+            ]
         },
         {
             "Title": "Bhautiki",
             "Description": "An educational app specifically designed to help students prepare for the JEE and NEET . The app offers a comprehensive suite of resources, including video lectures, practice tests, study materials, and performance analytics.",
             "demoLink": "https://play.google.com/store/apps/details?id=co.april2019.bip",
-            "Technologies": ["Angular", "SASS", "CSS", "Bootstrap"]
+            "Technologies": [
+                "Angular",
+                "SASS",
+                "CSS",
+                "Bootstrap"
+            ]
         },
         {
             "Title": "Standard Bank",
             "Description": "An emergency response app that integrates various services into one platform, revolutionizing how individuals deal with emergency situations.",
             "demoLink": "https://play.google.com/store/apps/details?id=io.bank.standard",
-            "Technologies": ["Ionic", "SASS", "RxJs",  "Bootstrap"]
+            "Technologies": [
+                "Ionic",
+                "SASS",
+                "RxJs",
+                "Bootstrap"
+            ]
         }
     ],
     "Contact.Pretitle": "What’s Next",
     "Contact.Title": "Get in touch!",
     "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
     "Contact.Btn": "Say Hello"
-
-
 }

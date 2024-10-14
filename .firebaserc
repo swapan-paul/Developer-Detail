@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "developer-detail": {
+      "hosting": {
+        "andresjosehr-portfolio": [
+          "developer-detail-56"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "developer-detail"
+  }
+}

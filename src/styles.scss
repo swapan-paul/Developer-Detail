@@ -204,3 +204,13 @@ a {
 
 /* Importing Bootstrap SCSS file. */
 @import "bootstrap/scss/bootstrap";
+
+.custom-modal {
+  z-index: 1060 !important;
+  /* Adjust as needed */
+}
+
+.custom-modal .modal-backdrop {
+  z-index: 1050 !important;
+  /* Adjust as needed */
+}
